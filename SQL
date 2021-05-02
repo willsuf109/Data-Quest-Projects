@@ -1,0 +1,11 @@
+Overview for SQL
+
+What are the strengths and weaknesses of SQL as a language.
+
+
+
+Resources for SQL
+
+https://www.sqlstyle.guide/ 
+W3 Schools  SQL ZOO
+
